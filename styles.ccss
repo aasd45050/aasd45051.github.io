@@ -1,0 +1,14 @@
+body {
+background-color: rgb(10, 100, 150);
+}
+#title {
+text-align:center;
+}
+img {
+margin-right: auto;
+margin-left: auto;
+display: block;
+max-width: 100%;
+width: 390px;
+height: auto;
+}
